@@ -1,4 +1,4 @@
-# This repository contains the completed source code, but no BUILD files, for the Bazel Bootcamp to be presented at BazelCon 2018.
+# This repository contains the completed source code for the Bazel Bootcamp to be presented at BazelCon 2018. The solutions to Sections 1 and 2 are available, the rest of the solutions will be available shortly. 
 
 ## Section 1: Hello, Bazel!
 
